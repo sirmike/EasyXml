@@ -1,0 +1,4 @@
+#include <wx/msw/wx.rc>
+
+APP_ICON_BIG ICON "icon_big.ico"
+APP_ICON_SMALL ICON "icon.ico"

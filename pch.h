@@ -1,0 +1,15 @@
+#include <wx/wx.h>
+#include <wx/taskbar.h>
+#include <wx/xrc/xmlres.h>
+#include <iostream>
+#include <wx/xrc/xmlres.h>
+#include <wx/clipbrd.h>
+#include <wx/filesys.h>
+#include <wx/fs_zip.h>
+#include <wx/textfile.h>
+#include <wx/datetime.h>
+#include <wx/tooltip.h>
+#include <wx/msw/registry.h>
+#include <wx/filename.h>
+#include <wx/file.h>
+#include <string>
